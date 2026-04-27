@@ -41,11 +41,4 @@ The script calculates several metrics by comparing current landmarks against the
 2.  **Shoulder/Head Angle:** Uses `math.atan2` to detect tilting.
 3.  **Z-Depth Protrusion:** Compares the Z-axis (depth) of ears vs. shoulders to catch the "forward neck" position.
 
-
-
-## Roadmap
-- [ ] **Cross-Platform Audio:** Support for Windows (`winsound`) and Linux.
-- [ ] **Angular Dashboard:** A web-based interface to track posture statistics over the week.
-- [ ] **Visual Statistics:** Graphs showing "Good Posture vs Bad Posture" ratio per session.
-
 ---
